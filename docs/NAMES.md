@@ -1,4 +1,4 @@
-# Name Brainstorm (placeholder title: MECHFORCE)
+# Name Brainstorm — title chosen: **GACHARGE!** (ガチャージ)
 
 The ideas below came from three brainstorm angles: punchy anime/arcade titles, gacha/Japanese wordplay, and
 in-world terms. The conflict checks were quick web searches only. Run a real trademark search (USPTO /

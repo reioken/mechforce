@@ -1,4 +1,6 @@
-# MECHFORCE — Session Handoff
+# GACHARGE! — Session Handoff
+
+**Title locked: GACHARGE! (ガチャージ)** — repo/code still say "mechforce"; names in `docs/NAMES.md`.
 
 This file lets a fresh Claude session (e.g. a local session with Chrome) pick up the project. Read it fully
 before doing anything.

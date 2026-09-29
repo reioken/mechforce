@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "description": "MECHFORCE — a spiritual successor to Gotcha Force: collect capsule toy mechs, build squads, fuse them, and battle through a roguelite anime campaign.",
+  "description": "GACHARGE! — a spiritual successor to Gotcha Force: collect capsule toy mechs, build squads, fuse them, and battle through a roguelite anime campaign.",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
